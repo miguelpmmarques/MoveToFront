@@ -1,4 +1,4 @@
-function output = MTFll(s)
+function output = MoveToFront(s)
 
     alfabeto = unique(s);
     output = zeros(length(s),1);
